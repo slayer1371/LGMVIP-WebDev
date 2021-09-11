@@ -1,4 +1,4 @@
-# LGMVIP-WebDev
+# LGMVIP-WebDev (Task 1)
 ![Screenshot (77)](https://user-images.githubusercontent.com/77551419/132120907-b08aa925-665d-440e-bf8f-9fce9732cc08.png)
 ![Screenshot (78)](https://user-images.githubusercontent.com/77551419/132120916-32c735b7-822a-4f1f-837a-0f80c464f3c9.png)
 ![Screenshot (79)](https://user-images.githubusercontent.com/77551419/132120918-19463730-bff4-4a14-b646-82369936f900.png)
